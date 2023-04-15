@@ -1,0 +1,1 @@
+Burda email içersine girilen string içinde @ işareti varsa email sorgulamasıyla girsin yoksa username olarak kabul edip girsin böyle bir yapı yap.
